@@ -4,6 +4,9 @@ Dueling deep Q-network (DQN) agent for training/playing _Classical control_ envi
 
 ## Getting Started
 
+### Source code
+Source code of the DQN agent: [dqn_agent_cartpole.py](dqn_agent_cartpole.py)
+
 ### Used Python packages
 
 The following packages have been used during development and testing:
